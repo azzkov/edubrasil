@@ -110,7 +110,7 @@ const App = () => {
   );
 
   return (
-    <div className="container has-text-centered my-5" style={{ backgroundColor: '#2a003d', color: '#f9d923' }}>
+    <div className="container has-text-centered my-4" style={{ backgroundColor: '#2a003d', color: '#f9d923' }}>
       <div className="navbar-brand">
         <a className="navbar-item" href="#">
           <strong style={{ color: '#f9d923' }}>Edu Brasil!</strong>
